@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/bthoom.github.io/ability-workshop-calgary/static/js/main.1080158a.js",
-    "index.html": "/bthoom.github.io/ability-workshop-calgary/index.html",
-    "main.1080158a.js.map": "/bthoom.github.io/ability-workshop-calgary/static/js/main.1080158a.js.map"
+    "main.js": "/ability-workshop-calgary/static/js/main.1080158a.js",
+    "index.html": "/ability-workshop-calgary/index.html",
+    "main.1080158a.js.map": "/ability-workshop-calgary/static/js/main.1080158a.js.map"
   },
   "entrypoints": [
     "static/js/main.1080158a.js"
