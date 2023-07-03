@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ability-workshop-calgary/static/js/main.0c420e7b.js",
+    "main.js": "/ability-workshop-calgary/static/js/main.d17acbcd.js",
     "index.html": "/ability-workshop-calgary/index.html",
-    "main.0c420e7b.js.map": "/ability-workshop-calgary/static/js/main.0c420e7b.js.map"
+    "main.d17acbcd.js.map": "/ability-workshop-calgary/static/js/main.d17acbcd.js.map"
   },
   "entrypoints": [
-    "static/js/main.0c420e7b.js"
+    "static/js/main.d17acbcd.js"
   ]
 }
